@@ -18,7 +18,7 @@ B1vector=1;
 flipanglea=flipangleABdegree(1);
 flipangleb=flipangleABdegree(2);
 
-T1vector=0.05:0.05:5;
+T1vector=0.05:0.01:5;
 
 
 if length(nZslices)==2
